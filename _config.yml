@@ -8,10 +8,10 @@ username: Wazers
 user_description: Unofficial Waze Developer Community
 user_title: Waze Developer Community
 email: anon@anon.com
-twitter_username: lorem_ipsum
+twitter_username: wazedev
 github_username:  wazers
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+gplus_username:  115976708093729381066
+disqus_username: wazers
 
 # Build settings
 markdown: kramdown
